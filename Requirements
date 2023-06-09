@@ -1,0 +1,8 @@
+1.Tensorflow 2.5.0
+2.GPU support(if using local machine)
+3.TensorFlow Model Garden
+4.Protobuf  
+5.COCO API
+6.Object Detection API
+for detailed tutoriala on installation of above libraries are avaible at:
+  https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
