@@ -5,6 +5,6 @@ This is a Object detection system made to detect BrownHoppers with BBoxes.
 
 this is how output looks like
 Since there is no opensource brown_hopper dataset available a dataset was created by following steps:
->download images using bing image downloader
->label images using labelimg(since we have bounding boxes)
->data augmentation 
+download images using bing image downloader
+label images using labelimg(since we have bounding boxes)
+data augmentation 
