@@ -9,3 +9,6 @@ Since there is no opensource brown_hopper dataset available a dataset was create
 ->download images using bing image downloader
 ->label images using labelimg(since we have bounding boxes)
 ->data augmentation 
+
+every resource needed to run this project are availbe at :https://drive.google.com/drive/folders/1IY1snfKi6vYiFVxuW3FDKvsqzW_H2Pv_?usp=sharing
+and coco.ipunb file.
