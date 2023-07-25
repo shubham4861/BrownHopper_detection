@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hopper burn + paddy</folder>
+	<filename>Image_30.jpg</filename>
+	<path>C:\Users\sahu4\Downloads\Hopper_burn_images\hopper burn + paddy -20230704T153531Z-001\hopper burn + paddy\Image_30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hopper_burn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>170</ymin>
+			<xmax>633</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

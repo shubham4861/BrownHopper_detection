@@ -1,0 +1,26 @@
+<annotation>
+	<folder>brown plant hopper damage on paddy</folder>
+	<filename>Image_1.jpg</filename>
+	<path>C:\Users\sahu4\Downloads\Hopper_burn_images\brown plant hopper damage on paddy-20230704T155115Z-001\brown plant hopper damage on paddy\Image_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hopper_burn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>178</ymin>
+			<xmax>636</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>
