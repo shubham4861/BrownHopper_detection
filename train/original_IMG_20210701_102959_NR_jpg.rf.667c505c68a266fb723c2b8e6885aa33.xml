@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>IMG_20210701_102959_NR_jpg.rf.667c505c68a266fb723c2b8e6885aa33.jpg</filename>
+	<path>IMG_20210701_102959_NR_jpg.rf.667c505c68a266fb723c2b8e6885aa33.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brown_hopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>176</xmin>
+			<xmax>275</xmax>
+			<ymin>224</ymin>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,13 +1,13 @@
 <annotation>
 	<folder>brown_hopper</folder>
 	<filename>Image_3.jpg</filename>
-	<path>C:\Users\sahu4\Downloads\brown_hopper-20230530T220337Z-001\brown_hopper\Image_3.jpg</path>
+	<path>C:\Users\sahu4\Downloads\Hopper_burn_images\brown_hopper-drive\brown_hopper\Image_3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1044</width>
-		<height>1107</height>
+		<width>945</width>
+		<height>808</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>202</xmin>
-			<ymin>494</ymin>
-			<xmax>865</xmax>
-			<ymax>894</ymax>
+			<xmin>432</xmin>
+			<ymin>82</ymin>
+			<xmax>758</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Brown_hopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>384</ymin>
+			<xmax>407</xmax>
+			<ymax>719</ymax>
 		</bndbox>
 	</object>
 </annotation>

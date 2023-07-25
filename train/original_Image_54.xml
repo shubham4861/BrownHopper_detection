@@ -1,0 +1,26 @@
+<annotation>
+	<folder>brown_hopper</folder>
+	<filename>Image_54.jpg</filename>
+	<path>C:\Users\sahu4\Downloads\Hopper_burn_images\brown_hopper-drive\brown_hopper\Image_54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>919</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brown_hopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>261</ymin>
+			<xmax>636</xmax>
+			<ymax>1094</ymax>
+		</bndbox>
+	</object>
+</annotation>
